@@ -24,10 +24,10 @@ Le `modulo` est une opération mathématique qui permet d'obtenir le reste de la
 
 ### Incrémentation
 
-On appelle `incrémentation` le fait d'ajouter une valeur fixe à une varible.
-> Il existe plusieurs manière d'incrémenter une variable.
+On appelle `incrémentation` le fait d'ajouter une valeur fixe à une variable.
+> Il existe plusieurs manières d'incrémenter une variable.
 > 
-> L'opérateur `++` ajoute 1 à la varible tandis que l'opérateur `+=` permet d'ajouter une valeur choisie
+> L'opérateur `++` ajoute 1 à la variable tandis que l'opérateur `+=` permet d'ajouter une valeur choisie
 
 ![Variable Operations](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources//operations/incrementation.png)
 

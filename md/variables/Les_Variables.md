@@ -2,7 +2,7 @@
 
 **Une variable** est une zone de stockage d'information. 
 On peut l'imaginer comme une boîte dans laquelle on range des choses. 
-Une variable possède trois propriétés importante:
+Une variable possède trois propriétés importantes :
 
 * son nom : pour identifier la variable facilement.
 * sa valeur : la donnée qu'elle contient.
@@ -22,7 +22,7 @@ Une variable possède trois propriétés importante:
 
 ![Variable assignation](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources/variables/assignation.png)
 
-* Il est possible de combier `déclaration` et `assignation` de variable sur la même ligne :
+* Il est possible de combiner `déclaration` et `assignation` de variable sur la même ligne :
 
 ![Variable assignation and declaration](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources/variables/assignation_declaration.png)
 
@@ -39,7 +39,7 @@ Pour afficher la valeur contenue dans une variable on utilise l'instruction `con
 
 ![Example](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources/variables/example.png)
 
-> Resultat :
+> Résultat :
 
 ![Result](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources/variables/result.png)
 
