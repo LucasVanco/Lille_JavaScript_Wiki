@@ -16,6 +16,8 @@ Il est possible d'effectuer des opérations sur les variables entres-elles.
 
 ![Variable Operations](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources//operations/basics_2.png)
 
+Comme en mathématique il est possible d'utiliser les parenthèses pour modifier 
+
 ### Modulo
 
 Le `modulo` est une opération mathématique qui permet d'obtenir le reste de la division euclidienne.
