@@ -48,10 +48,10 @@ Opérateur | Description
 === | Égalité stricte. Renvoie true si les opérandes sont égaux et de même type
 != | Inégalité. Renvoie true si les opérandes sont différents.
 !== | Inégalité stricte. Renvoie true si les opérandes ne sont pas égaux ou s'ils ne sont pas de même type.
-> | Supériorité Stricte. Renvoie true si l'opérande gauche est supérieur (strictement) à l'opérande droit
->= | Supériorité ou égalité. Renvoie true si l'opérande gauche est supérieur ou égal à l'opérande droit.
-< | Infériorité Stricte. Renvoie true si l'opérande gauche est inférieur (strictement) à l'opérande droit
-<= | Infériorité ou égalité. Renvoie true si l'opérande gauche est inférieur ou égal à l'opérande droit.
+| > | Supériorité Stricte. Renvoie true si l'opérande gauche est supérieur (strictement) à l'opérande droit
+| >= | Supériorité ou égalité. Renvoie true si l'opérande gauche est supérieur ou égal à l'opérande droit.
+| < | Infériorité Stricte. Renvoie true si l'opérande gauche est inférieur (strictement) à l'opérande droit
+| <= | Infériorité ou égalité. Renvoie true si l'opérande gauche est inférieur ou égal à l'opérande droit.
 
 **Exemple**
 
