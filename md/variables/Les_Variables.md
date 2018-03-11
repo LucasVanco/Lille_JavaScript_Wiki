@@ -4,9 +4,9 @@
 On peut l'imaginer comme une boîte dans laquelle on range des choses. 
 Une variable possède trois propriétés importantes :
 
-* son nom : pour identifier la variable facilement.
-* sa valeur : la donnée qu'elle contient.
-* son type : qu'elle type de donnée elle contient.
+* son **nom** : pour identifier la variable facilement.
+* sa **valeur** : la donnée qu'elle contient.
+* son **type** : qu'elle type de donnée elle contient.
 
 > En Javascript on ne définit jamais le type d'une variable, on laisse l'ordinateur le faire pour nous.
 
