@@ -42,7 +42,7 @@ Une variable peut contenir une chaîne de caractères, appelée `String`.
 
 * **Le type Boolean**
 
-Une variable peut contenir une donnée de type `boolean` dans ce cas il n'y a que deux valeurs possible : `true` ou `false`.
+Une variable peut contenir une donnée de type `boolean` dans ce cas il n'y a que deux valeurs possibles : `true` ou `false`.
 
 ![Variable assignation and declaration](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources/variables/boolean.png)
 
