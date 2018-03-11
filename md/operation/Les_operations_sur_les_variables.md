@@ -67,7 +67,7 @@ Dans ce cas il va falloir **expliciter** la conversion. C'est à dire qu'il faud
 
 **Conversion vers une chaîne de caractères :**
 
-Pour convertir explicitement une valeur en [une chaîne de caractères](https://github.com/TresorDeKelloggS/Lille_JavaScript_Wiki/wiki/Les-cha%C3%AEnes-de-caract%C3%A8res), il faut utiliser l'instruction `String(expression)` :
+Pour convertir explicitement une valeur en [une chaîne de caractères](https://github.com/TresorDeKelloggS/Lille_JavaScript_Wiki/blob/master/md/strings/Les_chaines_de_characteres.md), il faut utiliser l'instruction `String(expression)` :
 
 ![NaN](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources//operations/string_convert.png)
 
