@@ -54,7 +54,7 @@ Pour accéder à une méthode d'un objet il faut utiliser la *notation pointée*
 
 ![method](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources/objects/method.png)
 
-### Le mot-clé `this`**
+### Le mot-clé `this`
 
 Le mot-clé `this` est défini automatiquement par JavaScript à l'intérieur d'une méthode et représente **l'objet sur lequel la méthode a été appelée**.
 
