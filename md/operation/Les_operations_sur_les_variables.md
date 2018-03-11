@@ -7,7 +7,6 @@ Il est possible d'effectuer diverses opérations sur une ou plusieurs [variables
 Comme en mathématique, il est possible d'effectuer des additions, soustraction, division et multiplication sur les [variables](https://github.com/TresorDeKelloggS/Lille_JavaScript_Wiki/wiki/Les-Variables).
 
 ### Opérations basique
----
 
 Il possible de manipuler les variables via les différents opérateurs mathématiques pour en modifier leurs valeurs.
 
@@ -22,14 +21,12 @@ Comme en mathématique il est possible d'utiliser les parenthèses pour modifier
 ![Parentheses](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources/operations/parentheses.png)
 
 ### Modulo
----
 
 Le `modulo` est une opération mathématique qui permet d'obtenir le reste de la division euclidienne.
 
 ![Modulo](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources/operations/modulo.png)
 
 ### Incrémentation
----
 
 On appelle `incrémentation` le fait d'ajouter une valeur fixe à une variable.
 > Il existe plusieurs manières d'incrémenter une variable.
@@ -49,7 +46,6 @@ On appelle `incrémentation` le fait d'ajouter une valeur fixe à une variable.
 Bien qu'en JavaScript on indique pas le type d'une variable lors de sa déclaration, il reste toutefois possible de modifier celui-ci au cours d'un programme.
 
 ### Conversions implicite
----
 
 Certaines conversions sont dites implicites : elles sont faites **automatiquement** par l'ordinateur.
 
@@ -60,7 +56,6 @@ Certaines conversions sont dites implicites : elles sont faites **automatiquemen
 ![Implicite conversion result](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources/operations/implicit_result.png)
 
 ### Conversions explicite
----
 
 Bien que le JavaScript soit extrêmement tolérant avec les conversions de types, il arrive parfois qu'une conversion de soit pas possible.
 
