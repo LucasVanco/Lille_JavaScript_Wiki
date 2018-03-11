@@ -48,7 +48,7 @@ Une variable peut contenir une donnée de type `boolean` dans ce cas il n'y a qu
 
 * **Le type Array**
 
-Voir la page wiki consacré [aux tableaux]().
+Voir la page wiki consacré [aux tableaux](https://github.com/TresorDeKelloggS/Lille_JavaScript_Wiki/blob/master/md/tabs/Les_tableaux.md).
 
 * **Le type Object**
 

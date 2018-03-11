@@ -44,7 +44,7 @@ Pour accéder à la valeur d'une propriété d'un objet il faut utiliser la *not
 
 >On utilise un point `.` entre le nom de l'objet et sa propriété pour pouvoir accéder à sa valeur.
 
-Il existe également une seconde syntaxe pour accéder aux propriété d'un objet, semblable à celle [des tableaux]() : `monObjet['maPropriété']`.
+Il existe également une seconde syntaxe pour accéder aux propriété d'un objet, semblable à celle [des tableaux](https://github.com/TresorDeKelloggS/Lille_JavaScript_Wiki/blob/master/md/tabs/Les_tableaux.md) : `monObjet['maPropriété']`.
 
 ![properties tab](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources/objects/properties_tab.png)
 
