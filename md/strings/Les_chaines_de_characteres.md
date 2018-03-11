@@ -6,7 +6,7 @@ Une [variable](https://github.com/TresorDeKelloggS/Lille_JavaScript_Wiki/wiki/Le
 
 ![String Assignation](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources/strings/assignation.png)
 
-> On assigne toujours une chaîne de charactère avec des guillemets simples : '
+> On assigne toujours une chaîne de caractères avec des guillemets simples : '
 
 ## Manipuler les chaînes de caractères
 
@@ -26,9 +26,9 @@ Pour concaténer deux chaînes de caractères on utilisera l'opérateur logique 
 
 > Pensez aux espaces afin de rendre votre concaténation plus lisible.
 
-### Convertir une chaîne de caractères en miniscules ou en majuscules
+### Convertir une chaîne de caractères en minuscules ou en majuscules
 
-Une chaîne de caractères peut être convertie en minuscule ou en majuscule en utilisant [la méthode](https://github.com/TresorDeKelloggS/Lille_JavaScript_Wiki/blob/master/md/objects/Les_objets.md#m%C3%A9thodes) appropré : respectivement `toLowerCase()` ou `toUpperCase()`, qui renvoient tous deux la nouvelle chaîne de caractères modifiée.
+Une chaîne de caractères peut être convertie en minuscule ou en majuscule en utilisant [la méthode](https://github.com/TresorDeKelloggS/Lille_JavaScript_Wiki/blob/master/md/objects/Les_objets.md#m%C3%A9thodes) approprié : respectivement `toLowerCase()` ou `toUpperCase()`, qui renvoient tous deux la nouvelle chaîne de caractères modifiée.
 
 ![String Case](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources/strings/case.png)
 
@@ -44,7 +44,7 @@ Une chaîne de caractères peut être considérée comme un ensemble de caractè
 
 > L'indice du premier caractère d'une chaîne est 0.
 
-Il existe deux possibilité pour accéder à un caractère d'une chaîne :
+Il existe deux possibilités pour accéder à un caractère d'une chaîne :
 
 * Utiliser la méthode `charAt(index)` en indiquant l'index du caractère auquel on souhaite accéder.
 
