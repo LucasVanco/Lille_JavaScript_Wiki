@@ -2,7 +2,7 @@
 
 On appelle **chaîne de caractères** un ensemble de caractères formant une ou plusieurs phrases.
 
-Une [variable](https://github.com/TresorDeKelloggS/Lille_JavaScript_Wiki/wiki/Les-Variables) peut contenir une chaîne de caractères.
+Une [variable](https://github.com/TresorDeKelloggS/Lille_JavaScript_Wiki/blob/master/md/variables/Les_Variables.md) peut contenir une chaîne de caractères.
 
 ![String Assignation](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources/strings/assignation.png)
 
