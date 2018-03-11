@@ -36,6 +36,8 @@ Afin de créer un nouvel objet à partir de son constructeur, il faut utiliser l
 
 ## Utilisation d'un objet
 
+### Propriétés
+
 Pour accéder à la valeur d'une propriété d'un objet il faut utiliser la *notation pointée* `monObjet.maPropriété`.
 
 ![properties](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources/objects/properties.png)
@@ -46,11 +48,13 @@ Il existe également une seconde syntaxe pour accéder aux propriété d'un obje
 
 ![properties tab](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources/objects/properties_tab.png)
 
+### Méthodes 
+
 Pour accéder à une méthode d'un objet il faut utiliser la *notation pointée* `monObjet.maMéthode()`.
 
 ![method](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources/objects/method.png)
 
-**Le mot-clé `this`**
+### Le mot-clé `this`**
 
 Le mot-clé `this` est défini automatiquement par JavaScript à l'intérieur d'une méthode et représente **l'objet sur lequel la méthode a été appelée**.
 
