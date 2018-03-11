@@ -1,6 +1,6 @@
 # Les Objets
 
-**Un objet** est une variable qui permet de regrouper une seule entité possédant plusieurs propriétés. Contrairement à [une variable](https://github.com/TresorDeKelloggS/Lille_JavaScript_Wiki/blob/master/md/variables/Les_Variables.md) classique qui ne contient qu'une seule donnée, un objet, peut, quant à lui, contenir différents types de données appelées **propriété**.
+**Un objet** est [une variable](https://github.com/TresorDeKelloggS/Lille_JavaScript_Wiki/blob/master/md/variables/Les_Variables.md) qui permet de regrouper une seule entité possédant plusieurs propriétés. Contrairement à une variable classique qui ne contient qu'une seule donnée, un objet, peut, quant à lui, contenir différents types de données appelées **propriété**.
 
 ## Lexique
 
