@@ -52,7 +52,7 @@ Voir la page wiki consacré [aux tableaux]().
 
 * **Le type Object**
 
-Voir la page wiki consacré [aux objets]().
+Voir la page wiki consacré [aux objets](https://github.com/TresorDeKelloggS/Lille_JavaScript_Wiki/blob/master/md/objects/Les_objets.md).
 
 * **Les autres types**
 
