@@ -26,7 +26,46 @@ Une variable possède trois propriétés importantes :
 
 ![Variable assignation and declaration](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources/variables/assignation_declaration.png)
 
-***
+### Les différents type de données
+
+* **Le type Number**
+
+Une variable peut contenir un nombre absolue ou relatif, positif ou négatif.
+
+![Variable assignation and declaration](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources/variables/number.png)
+
+* **Le type String**
+
+Une variable peut contenir une chaîne de caractères, appelée `String`.
+
+![Variable assignation and declaration](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources/variables/string.png)
+
+* **Le type Boolean**
+
+Une variable peut contenir une donnée de type `boolean` dans ce cas il n'y a que deux valeurs possible : `true` ou `false`.
+
+![Variable assignation and declaration](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources/variables/boolean.png)
+
+* **Le type Array**
+
+Voir la page wiki consacré [aux tableaux]().
+
+* **Le type Object**
+
+Voir la page wiki consacré [aux objets]().
+
+* **Les autres types**
+
+Il existe deux autres types de données qu'une variable peut contenir : le type `null` et le type `undefined`.
+
+Le type `null` est une valeur comme les autres.
+
+![Variable assignation and declaration](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources/variables/null.png)
+> `null` n'est ni un `String` ni un `Number`, `null` est de type `null`
+
+Le type `undefined` signifie que la variable ne possède pas de valeur, qu'elle n'a pas été définie.
+
+![Variable assignation and declaration](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources/variables/undefined.png)
 
 ## Afficher la valeur d'une variable :
 
