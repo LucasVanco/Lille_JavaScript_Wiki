@@ -1,10 +1,10 @@
 # Les opérations sur les variables
 
-Il est possible d'effectuer diverses opérations sur une ou plusieurs [variables](https://github.com/TresorDeKelloggS/Lille_JavaScript_Wiki/wiki/Les-Variables).
+Il est possible d'effectuer diverses opérations sur une ou plusieurs [variables](https://github.com/TresorDeKelloggS/Lille_JavaScript_Wiki/blob/master/md/variables/Les_Variables.md).
 
 ## Opérations mathématiques
 
-Comme en mathématique, il est possible d'effectuer des additions, soustraction, division et multiplication sur les [variables](https://github.com/TresorDeKelloggS/Lille_JavaScript_Wiki/wiki/Les-Variables).
+Comme en mathématique, il est possible d'effectuer des additions, soustraction, division et multiplication sur les [variables](https://github.com/TresorDeKelloggS/Lille_JavaScript_Wiki/blob/master/md/variables/Les_Variables.md).
 
 ### Opérations basique
 
