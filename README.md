@@ -9,4 +9,5 @@ Bienvenue sur le Wiki JavaScript de la Wild Code School de Lille. Ce Wiki regrou
 * [Les tableaux](https://github.com/TresorDeKelloggS/Lille_JavaScript_Wiki/blob/master/md/tabs/Les_tableaux.md)
 * [Les conditions](https://github.com/TresorDeKelloggS/Lille_JavaScript_Wiki/blob/master/md/conditions/Les_conditions.md)
 * Les boucles
+* Les fonctions
 * Interagir avec le DOM et l'utilisateur
