@@ -34,7 +34,7 @@ Elle prend un nombre en argument et retourne le carré de ce nombre.
 
 ## Les fonction fléchées
 
-Les fonctions fléchées sont des fonctions qui ont une syntaxe particulière et qui ont étés introduite avec l'**ES6**.
+Les fonctions fléchées sont des fonctions qui ont une syntaxe particulière et qui ont été introduite avec l'**ES6**.
 
 ### Syntaxe
 
@@ -60,12 +60,12 @@ Si une fonction requiert un argument il est indispensable de lui fournir cet arg
 
 ![call function example](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources/functions/call_errors.png)
 
-> Le nom des arguments sont propres à la fonction, il n'est pas neccessaire de passer une argument une variable du même nom que l'argument.
+> Le nom des arguments sont propres à la fonction, il n'est pas nécessaire de passer en argument une variable du même nom que l'argument.
 
 ![](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources/functions/args_name_example.png)
 
-### Le retour d'un fonction
+### Le retour d'une fonction
 
-Dans le cas d'une fonction qui retourne une valeur, à l'aide du mot-clé `return`, il est possible de récuperer cette valeur et la stocker dans une variable.
+Dans le cas d'une fonction qui retourne une valeur, à l'aide du mot-clé `return`, il est possible de récupérer cette valeur et la stocker dans une variable.
 
 ![](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources/functions/call_return_example.png)
