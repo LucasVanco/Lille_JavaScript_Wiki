@@ -5,7 +5,7 @@
 ## Lexique
 
 * On appelle `propriété` d'un objet, une caractéristique de celui-ci.
-* On appelle `méthode` d'un objet, [une fonction]() associé à l'objet.
+* On appelle `méthode` d'un objet, [une fonction](https://github.com/TresorDeKelloggS/Lille_JavaScript_Wiki/blob/master/md/functions/Les_fonctions.md) associé à l'objet.
 * Le mot clé `this` correspond à l'instance actuelle de l'objet que l'on manipule.
 * Le `constructor`d'un objet est la fonction qui permet de créer une nouvelle instance de l'objet.
 
