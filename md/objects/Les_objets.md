@@ -24,7 +24,7 @@ La variable `car` est donc une variable de type objet qui possède plusieurs pro
 
 ### Utilisation d'un constructeur
 
-Une autre possibilité pour créer des objets consiste à utiliser un `constructor`. Un `constructor` est [une fonction]() particulière dont le rôle est d'initialiser un nouvel objet.
+Une autre possibilité pour créer des objets consiste à utiliser un `constructor`. Un `constructor` est [une fonction](https://github.com/TresorDeKelloggS/Lille_JavaScript_Wiki/blob/master/md/functions/Les_fonctions.md) particulière dont le rôle est d'initialiser un nouvel objet.
 
 ![constructor](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources/objects/constructor.png)
 
