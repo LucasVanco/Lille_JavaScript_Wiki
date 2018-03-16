@@ -26,6 +26,14 @@ Pour concaténer deux chaînes de caractères on utilisera l'opérateur logique 
 
 > Pensez aux espaces afin de rendre votre concaténation plus lisible.
 
+### Template string
+
+Il est possible d'insérer des variables dans une chaîne de caractères à l'aide des templates strings.
+
+Pour utiliser le template string il faut utilisation la notation suivante : `${maVariable}`, à l'intérieur d'une chaîne de caractères.
+
+![Templating String](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources/strings/template_string.png)
+
 ### Convertir une chaîne de caractères en minuscules ou en majuscules
 
 Une chaîne de caractères peut être convertie en minuscule ou en majuscule en utilisant [la méthode](https://github.com/TresorDeKelloggS/Lille_JavaScript_Wiki/blob/master/md/objects/Les_objets.md#m%C3%A9thodes) approprié : respectivement `toLowerCase()` ou `toUpperCase()`, qui renvoient tous deux la nouvelle chaîne de caractères modifiée.
