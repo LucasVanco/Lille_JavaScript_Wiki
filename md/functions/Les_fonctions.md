@@ -6,13 +6,15 @@ Une **fonction** est un regroupement d'instructions qui réalise une tâche donn
 
 ### Syntaxe
 
-La syntaxe de `déclaration` d'une fonction est la suivante :
+Il existe deux syntaxes différentes pour définir une fonction.
 
-![Function syntaxe](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources/functions/function_syntaxe.png)
+**Définition par déclaration**
 
-Il existe une seconde notation pour déclarer des fonctions :
+![Function syntaxe declaration](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources/functions/function_syntaxe.png)
 
-![Function syntaxe bis](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources/functions/function_syntaxe_bis.png)
+**Définition par expression**
+
+![Function syntaxe expression](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources/functions/function_syntaxe_bis.png)
 
 > Les deux syntaxes, bien que différentes, produisent le même résultat : la déclaration d'une fonction.
 
