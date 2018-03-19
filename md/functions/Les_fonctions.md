@@ -8,15 +8,15 @@ Une **fonction** est un regroupement d'instructions qui réalise une tâche donn
 
 Il existe deux syntaxes différentes pour définir une fonction.
 
-**Définition par déclaration**
+**Définition par `déclaration`**
 
 ![Function syntaxe declaration](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources/functions/function_syntaxe.png)
 
-**Définition par expression**
+**Définition par `expression`**
 
 ![Function syntaxe expression](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources/functions/function_syntaxe_bis.png)
 
-> Les deux syntaxes, bien que différentes, produisent le même résultat : la déclaration d'une fonction.
+> Les deux syntaxes, bien que différentes, produisent le même résultat : la définition d'une fonction.
 
 ### Lexique
 
