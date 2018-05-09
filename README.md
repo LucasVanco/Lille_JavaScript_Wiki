@@ -7,14 +7,14 @@ Bienvenue sur le Wiki JavaScript de la Wild Code School de Lille. Ce Wiki regrou
 ## Les bases du JavaScript
 
 * [Les variables](./md/basics/Les_Variables.md)
-* [Les opérations sur les variables](https://github.com/TresorDeKelloggS/Lille_JavaScript_Wiki/blob/master/md/basics/Les_operations_sur_les_variables.md)
-* [Les chaînes de caractères](https://github.com/TresorDeKelloggS/Lille_JavaScript_Wiki/blob/master/md/basics/Les_chaines_de_characteres.md)
-* [Les objets](https://github.com/TresorDeKelloggS/Lille_JavaScript_Wiki/blob/master/md/basics/Les_objets.md)
-* [Les tableaux](https://github.com/TresorDeKelloggS/Lille_JavaScript_Wiki/blob/master/md/basics/Les_tableaux.md)
-* [Les conditions](https://github.com/TresorDeKelloggS/Lille_JavaScript_Wiki/blob/master/md/basics/Les_conditions.md)
-* [Les boucles](https://github.com/TresorDeKelloggS/Lille_JavaScript_Wiki/blob/master/md/basics/Les_boucles.md)
-* [Les fonctions](https://github.com/TresorDeKelloggS/Lille_JavaScript_Wiki/blob/master/md/basics/Les_fonctions.md)
-* [Les classes](https://github.com/TresorDeKelloggS/Lille_JavaScript_Wiki/blob/master/md/basics/Les_classes.md)
+* [Les opérations sur les variables](./md/basics/Les_operations_sur_les_variables.md)
+* [Les chaînes de caractères](./md/basics/Les_chaines_de_characteres.md)
+* [Les objets](./md/basics/Les_objets.md)
+* [Les tableaux](./md/basics/Les_tableaux.md)
+* [Les conditions](./md/basics/Les_conditions.md)
+* [Les boucles](./md/basics/Les_boucles.md)
+* [Les fonctions](./md/basics/Les_fonctions.md)
+* [Les classes](./md/basics/Les_classes.md)
 
 ## Interagir avec le DOM et l'utilisateur
 
