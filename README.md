@@ -6,15 +6,15 @@ Bienvenue sur le Wiki JavaScript de la Wild Code School de Lille. Ce Wiki regrou
 
 ## Les bases du JavaScript
 
-* [Les variables](https://github.com/TresorDeKelloggS/Lille_JavaScript_Wiki/blob/master/md/variables/Les_Variables.md)
-* [Les opérations sur les variables](https://github.com/TresorDeKelloggS/Lille_JavaScript_Wiki/blob/master/md/operation/Les_operations_sur_les_variables.md)
-* [Les chaînes de caractères](https://github.com/TresorDeKelloggS/Lille_JavaScript_Wiki/blob/master/md/strings/Les_chaines_de_characteres.md)
-* [Les objets](https://github.com/TresorDeKelloggS/Lille_JavaScript_Wiki/blob/master/md/objects/Les_objets.md)
-* [Les tableaux](https://github.com/TresorDeKelloggS/Lille_JavaScript_Wiki/blob/master/md/tabs/Les_tableaux.md)
-* [Les conditions](https://github.com/TresorDeKelloggS/Lille_JavaScript_Wiki/blob/master/md/conditions/Les_conditions.md)
-* [Les boucles](https://github.com/TresorDeKelloggS/Lille_JavaScript_Wiki/blob/master/md/loops/Les_boucles.md)
-* [Les fonctions](https://github.com/TresorDeKelloggS/Lille_JavaScript_Wiki/blob/master/md/functions/Les_fonctions.md)
-* [Les classes](https://github.com/TresorDeKelloggS/Lille_JavaScript_Wiki/blob/master/md/class/Les_classes.md)
+* [Les variables](./basics/Les_Variables.md)
+* [Les opérations sur les variables](https://github.com/TresorDeKelloggS/Lille_JavaScript_Wiki/blob/master/md/basics/Les_operations_sur_les_variables.md)
+* [Les chaînes de caractères](https://github.com/TresorDeKelloggS/Lille_JavaScript_Wiki/blob/master/md/basics/Les_chaines_de_characteres.md)
+* [Les objets](https://github.com/TresorDeKelloggS/Lille_JavaScript_Wiki/blob/master/md/basics/Les_objets.md)
+* [Les tableaux](https://github.com/TresorDeKelloggS/Lille_JavaScript_Wiki/blob/master/md/basics/Les_tableaux.md)
+* [Les conditions](https://github.com/TresorDeKelloggS/Lille_JavaScript_Wiki/blob/master/md/basics/Les_conditions.md)
+* [Les boucles](https://github.com/TresorDeKelloggS/Lille_JavaScript_Wiki/blob/master/md/basics/Les_boucles.md)
+* [Les fonctions](https://github.com/TresorDeKelloggS/Lille_JavaScript_Wiki/blob/master/md/basics/Les_fonctions.md)
+* [Les classes](https://github.com/TresorDeKelloggS/Lille_JavaScript_Wiki/blob/master/md/basics/Les_classes.md)
 
 ## Interagir avec le DOM et l'utilisateur
 
