@@ -6,7 +6,7 @@ Bienvenue sur le Wiki JavaScript de la Wild Code School de Lille. Ce Wiki regrou
 
 ## Les bases du JavaScript
 
-* [Les variables](./basics/Les_Variables.md)
+* [Les variables](./md/basics/Les_Variables.md)
 * [Les opérations sur les variables](https://github.com/TresorDeKelloggS/Lille_JavaScript_Wiki/blob/master/md/basics/Les_operations_sur_les_variables.md)
 * [Les chaînes de caractères](https://github.com/TresorDeKelloggS/Lille_JavaScript_Wiki/blob/master/md/basics/Les_chaines_de_characteres.md)
 * [Les objets](https://github.com/TresorDeKelloggS/Lille_JavaScript_Wiki/blob/master/md/basics/Les_objets.md)
