@@ -1,6 +1,6 @@
 # Les boucles
 
-Les boucles permettent de répéter des instructions **tant qu'[une condition](https://github.com/TresorDeKelloggS/Lille_JavaScript_Wiki/blob/master/md/conditions/Les_conditions.md) est vérifiée**.
+Les boucles permettent de répéter des instructions **tant qu'[une condition](./Les_conditions.md) est vérifiée**.
 
 ## La boucle `while`
 
@@ -8,15 +8,15 @@ La boucle `while` est la première syntaxe de boucle à connaître.
 
 ### Syntaxe
 
-![While syntaxe](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources/loops/while_syntax.png)
+![While syntaxe](../../ressources/basics/loops/while_syntax.png)
 
 ### Exemple
 
-![While example](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources/loops/while_example.png)
+![While example](../../ressources/basics/loops/while_example.png)
 
 **Résultat**
 
-![While console result](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources/loops/while_console.png)
+![While console result](../../ressources/basics/loops/while_console.png)
 
 > Le bloc d'instructions associé à une boucle est appelé le **corps de la boucle**.
 
@@ -26,11 +26,11 @@ On a fréquemment besoin d'écrire des boucles dont la condition est basée sur 
 
 ### Syntaxe
 
-![for syntaxe](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources/loops/for_syntaxe.png)
+![for syntaxe](../../ressources/basics/loops/for_syntaxe.png)
 
 ### Exemple
 
-![for example](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources/loops/for_example.png)
+![for example](../../ressources/basics/loops/for_example.png)
 
 Son fonctionnement est un peu plus complexe que celui d'un `while` :
 
@@ -45,7 +45,7 @@ Son fonctionnement est un peu plus complexe que celui d'un `while` :
 
 Très souvent, on n'a pas besoin d'utiliser la variable compteur en dehors du corps de la boucle. Dans ce cas, on peut la *déclarer* en même temps qu'on **l'initialise** dans la boucle.
 
-![for one line](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources/loops/for_oneline.png)
+![for one line](../../ressources/basics/loops/for_oneline.png)
 
 ## Erreurs fréquentes
 
@@ -55,12 +55,12 @@ On appelle boucle infinie, une boucle dont la condition est indéfiniment vraie.
 
 **Exemple**
 
-![infite loop](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources/loops/infinite_loop.png)
+![infite loop](../../ressources/basics/loops/infinite_loop.png)
 
 ### Modifier le compteur d'une boucle `for`
 
 L'incrémentation du compteur d'une boucle `for` est faite à chaque tour de boucle **automatique** grace à la déclaration de l'*étape* lors de la déclaration du `for`.
 
-![double inc](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources/loops/double_inc.png)
+![double inc](../../ressources/basics/loops/double_inc.png)
 
 > Dans l'exemple précédent, le compteur est donc incrémenté à deux reprises.

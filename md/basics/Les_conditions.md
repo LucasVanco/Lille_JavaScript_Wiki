@@ -2,17 +2,17 @@
 
 Les conditions permettent d'effectuer des tests sur le code et ainsi produire des actions en fonction de ces conditions.
 
-**Une condition** est une expression dont l'évaluation produit une valeur soit vraie, soit fausse : on parle de valeur [booléenne](https://github.com/TresorDeKelloggS/Lille_JavaScript_Wiki/blob/master/md/variables/Les_Variables.md#les-diff%C3%A9rents-type-de-donn%C3%A9es).
+**Une condition** est une expression dont l'évaluation produit une valeur soit vraie, soit fausse : on parle de valeur [booléenne](./Les_Variables.md#les-diff%C3%A9rents-type-de-donn%C3%A9es).
 
 ## L'instruction if
 
 L'instruction `if` permet de tester une expression, elle est la principale instruction utilisée pour les conditions.
 
-![if condition](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources/conditions/if.png)
+![if condition](../../ressources/basics/conditions/if.png)
 
 La syntaxe d'une instruction `if` est la suivante : 
 
-![if syntaxe](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources/conditions/if_syntaxe.png)
+![if syntaxe](../../ressources/basics/conditions/if_syntaxe.png)
 
 Lorsque la `condition` est vraie alors le *bloc de code* à l'intérieur des accolades est exécuté.
 
@@ -26,17 +26,17 @@ Pour exprimer une alternative à l'instruction `if`, on utilise l'instruction `i
 
 > Le bloc de code dans le `else` s'exécute lorsque la condition `if` est évalué à `false`
 
-![else](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources/conditions/if_else.png)
+![else](../../ressources/basics/conditions/if_else.png)
 
 Il est également possible de combiner l'instruction `if` et l'instruction `else` pour exprimer un choix logique. On obtient alors l'instruction `else if` pour exprimer une alternative spécifique.
 
-![else if](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources/conditions/if_elseif.png)
+![else if](../../ressources/basics/conditions/if_elseif.png)
 
 ## Imbriquer les conditions
 
 Il est tout à fait possible d'imbriquer les conditions pour écrire des programmes plus complexes.
 
-![multiple if](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources/conditions/if_imbrique.png)
+![multiple if](../../ressources/basics/conditions/if_imbrique.png)
 
 ## Les opérateurs de comparaison
 
@@ -55,7 +55,7 @@ Opérateur | Description
 
 **Exemple**
 
-![operator](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources/conditions/operator.png)
+![operator](../../ressources/basics/conditions/operator.png)
 
 > `'1' == 1` retourne `true` car, bien qu'il soit de type différent (`string` et `number`), l'ordinateur considère qu'ils sont tous deux égaux.
 
@@ -65,11 +65,11 @@ Opérateur | Description
 
 L'opérateur logique `&&` permet de combiner des conditions et d'exécuter un bloc de code si **toute les conditions sont vraies**.
 
-![and](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources/conditions/et_condition.png)
+![and](../../ressources/basics/conditions/et_condition.png)
 
 La syntaxe est la suivante :
 
-![and syntaxe](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources/conditions/et_condition_syntaxe.png)
+![and syntaxe](../../ressources/basics/conditions/et_condition_syntaxe.png)
 
 > Les parenthèses autour des sous conditions ne sont pas obligatoire mais **très fortement conseillées**.
 
@@ -77,11 +77,11 @@ La syntaxe est la suivante :
 
 L'opérateur logique `||` permet de combiner des conditions et d'exécuter un bloc de code si **au moins une des conditions est vraie**.
 
-![or](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources/conditions/ou_condition.png)
+![or](../../ressources/basics/conditions/ou_condition.png)
 
 La syntaxe est la suivante :
 
-![or syntaxe](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources/conditions/ou_condition_syntaxe.png)
+![or syntaxe](../../ressources/basics/conditions/ou_condition_syntaxe.png)
 
 > Les parenthèses autour des sous conditions ne sont pas obligatoire mais **très fortement conseillées**.
 
@@ -89,10 +89,10 @@ La syntaxe est la suivante :
 
 L'opérateur logique `!` permet d'inverser la valeur d'une condition.
 
-![inverse](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources/conditions/inverse.png)
+![inverse](../../ressources/basics/conditions/inverse.png)
 
 Ainsi :
 
-![inverse log](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources/conditions/inverse_log.png)
+![inverse log](../../ressources/basics/conditions/inverse_log.png)
 
 

@@ -4,19 +4,19 @@ Les classes JavaScript ont été introduites avec **ECMAScript 2015 (ES6)**. Ell
 
 ## Définir une classe
 
-En réalité, les classes sont juste des [fonctions](https://github.com/TresorDeKelloggS/Lille_JavaScript_Wiki/blob/master/md/functions/Les_fonctions.md) spéciales. Ainsi, les classes sont définies de la même façon que les fonctions : par déclaration, ou par expression.
+En réalité, les classes sont juste des [fonctions](./Les_fonctions.md) spéciales. Ainsi, les classes sont définies de la même façon que les fonctions : par déclaration, ou par expression.
 
 ### Déclarations de classe
 
 Pour utiliser une déclaration de classe simple, on utilisera le mot-clé class, suivi par le nom de la classe que l'on déclare.
 
-![class declaration](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources/class/declaration.png)
+![class declaration](../../ressources/basics/class/declaration.png)
 
 ### Expressions de classe
 
 Il est possible d'utiliser des expressions de classes pour définir des classes.
 
-![class expression](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources/class/expression.png)
+![class expression](../../ressources/basics/class/expression.png)
 
 ## Corps d'une classe
 
@@ -28,13 +28,13 @@ La méthode `constructor` est une méthode spéciale qui permet de créer et d'i
 
 > Il ne peut y avoir qu'une seule méthode avec le nom `constructor` pour une classe donnée.
 
-![constructor](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources/class/constructor.png)
+![constructor](../../ressources/basics/class/constructor.png)
 
 ### Méthodes
 
 La définition d'une méthode se fait directement dans le corps de la classe. Pour définir une méthode il suffit de préciser son nom et ses arguments entre les parenthèses.
 
-![methode declaration](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources/class/methode.png)
+![methode declaration](../../ressources/basics/class/methode.png)
 
 #### Le mot-clé `this`
 
@@ -46,29 +46,29 @@ Le mot-clé `static` permet de définir une méthode statique pour une classe. L
 
 > Les méthodes `static` ne peuvent pas être appelées « depuis » une instance de l'objet.
 
-![methode static](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources/class/static.png)
+![methode static](../../ressources/basics/class/static.png)
 
 #### Le mot-clé `get`
 
 La syntaxe `get` permet de lier une propriété d'un objet à une fonction qui sera appelée lorsqu'on accédera à la propriété.
 
-![get syntaxe](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources/class/get.png)
+![get syntaxe](../../ressources/basics/class/get.png)
 
 #### Le mot-clé `set`
 
 La syntaxe `set` permet de lier une propriété d'un objet à une fonction qui sera appelée à chaque tentative de modification de cette propriété.
 
-![set syntaxe](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources/class/set.png)
+![set syntaxe](../../ressources/basics/class/set.png)
 
 ## L'héritage de classe
 
 Avec l'introduction des classes en ES6, l'héritage de classe est donc possible. Pour hériter d'une classe on utilisera le mot-clé `extends`.
 
-![extends](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources/class/extends.png)
+![extends](../../ressources/basics/class/extends.png)
 
 > Dans le cas où le constructeur de la classe fille est identique à celui de la classe parente, et uniquement dans ce cas, alors il n'est pas nécessaire de le spécifier dans la classe fille.
 
-![same construct](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources/class/same_constructor.png)
+![same construct](../../ressources/basics/class/same_constructor.png)
 
 ### Le mot-clé `super`
 
@@ -76,11 +76,11 @@ Le mot-clé super est utilisé afin d'appeler ou d'accéder à des fonctions dé
 
 > Il est possible d'utiliser super pour invoquer des méthodes statiques.
 
-![super](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources/class/super.png)
+![super](../../ressources/basics/class/super.png)
 
 ### Surcharge de méthode
 
 Lorsque qu'une classe fille redéfinit une méthode de sa classe parente, on dit qu'elle **surcharge** la méthode.
 
-![override](https://raw.githubusercontent.com/TresorDeKelloggS/Lille_JavaScript_Wiki/master/ressources/class/override.png)
+![override](../../ressources/basics/class/override.png)
 
