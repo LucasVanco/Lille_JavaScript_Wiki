@@ -19,7 +19,7 @@ Bienvenue sur le Wiki JavaScript de la Wild Code School de Lille. Ce Wiki regrou
 ## Interagir avec le DOM et l'utilisateur
 
 * [JQuery](./md/dom/jquery.md)
-* Ajax
+* [Ajax](./md/dom/ajax.md)
 
 ## NodeJS
 
